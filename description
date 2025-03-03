@@ -1,0 +1,50 @@
+
+The HR Analytics Dashboard is an interactive Power BI report designed to analyze workforce trends, recruitment, employee engagement, and training. It provides actionable insights using dynamic visualizations, drill-through analysis, and conditional formatting for better decision-making.
+
+Dashboard Pages & Features
+1. Employee Overview
+Key Insights:
+
+Total employees, active vs. terminated employees
+Employee distribution by department, gender, and location
+Workforce distribution on a geographic map
+Visuals Used: KPI Cards, Bar Chart, Donut Chart, Map
+
+2. Employee Engagement & Performance
+Key Insights:
+
+Engagement and satisfaction scores across departments
+Work-life balance trends and performance evaluation
+Conditional formatting highlights areas needing improvement
+Visuals Used: Line Chart, Treemap, Heatmap
+
+3. Recruitment Analysis
+Key Insights:
+
+Total applications, hiring rate, and conversion trends
+Recruitment pipeline analysis using a funnel chart
+Hires by country and job title visualized on a map
+Visuals Used: Funnel Chart, Bar Chart, Map, Slicers
+
+4. Training & Development
+Key Insights:
+
+Total training sessions and completion rates
+Popular training programs and cost analysis
+Department-wise training effectiveness
+Visuals Used: Pie Chart, Stacked Bar Chart, KPI Cards
+
+Interactive Features & Enhancements
+Page Navigation: Allows seamless movement between pages
+Conditional Formatting: Highlights key trends and performance gaps
+Dynamic Tooltips: Provides additional insights on hover
+Drill-Through Pages: Click on a country to see detailed job title data
+How to Use
+Open the Power BI link and explore the dashboard
+Use filters and slicers to analyze specific departments, time periods, or job roles
+Click on interactive elements to drill down into the data
+Technologies Used
+Power BI for data visualization
+DAX Measures for calculations
+Conditional Formatting for insights
+Drill-through and tooltips for detailed analysis
